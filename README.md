@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 À propos de moi:
 🛠️ Je travaille actuellement sur<br>TypeScript et Tailwind • Une API REST autour du café • Un réseau social en Node.js avec authentification JWT<br><br>🤝 Je cherche à collaborer sur<br>Des projets éducatifs ou créatifs pour progresser ensemble (frontend, backend ou fullstack)<br><br>🧠 J’ai besoin d’aide sur<br>L’optimisation JavaScript, la sécurité des API (authentification JWT, middlewares) et les bonnes pratiques de développement<br><br>🌱 J’apprends en ce moment<br>React, Redux Toolkit, Zustand, l’architecture SCSS 7-1, l’accessibilité web et le design éco-responsable<br><br>💬 Tu peux me poser des questions sur<br>Mon changement de carrière, mon apprentissage en autodidacte et mes projets backend avec Node.js<br><br>⚡ Fun fact<br>J’ai commencé à coder sans rien y connaître… et aujourd’hui je crée des APIs et des interfaces React avec le sourire 😄
 
 
