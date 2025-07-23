@@ -1,5 +1,41 @@
-# 💫 À propos de moi:
-🛠️ Je travaille actuellement sur<br>TypeScript et Tailwind • Une API REST autour du café • Un réseau social en Node.js avec authentification JWT<br><br>🤝 Je cherche à collaborer sur<br>Des projets éducatifs ou créatifs pour progresser ensemble (frontend, backend ou fullstack)<br><br>🧠 J’ai besoin d’aide sur<br>L’optimisation JavaScript, la sécurité des API (authentification JWT, middlewares) et les bonnes pratiques de développement<br><br>🌱 J’apprends en ce moment<br>React, Redux Toolkit, Zustand, l’architecture SCSS 7-1, l’accessibilité web et le design éco-responsable<br><br>💬 Tu peux me poser des questions sur<br>Mon changement de carrière, mon apprentissage en autodidacte et mes projets backend avec Node.js<br><br>⚡ Fun fact<br>J’ai commencé à coder sans rien y connaître… et aujourd’hui je crée des APIs et des interfaces React avec le sourire 😄
+🛠️ Projets en cours et réalisés
+🌐 Beautiful Portfolio
+Un portfolio personnel moderne développé avec React 19, Vite et TypeScript, hébergé sur Railway.
+Fonctionnalités et outils :
+Stack frontend : Tailwind CSS, Framer Motion, Lucide, Lenis (scroll fluide), Zustand, Swiper
+Appels dynamiques à l’API GitHub pour afficher les projets en temps réel
+Intégration d’un mini-jeu développé avec Phaser, animations interactives
+Architecture responsive mobile-first, configuration multi-environnement, déploiement optimisé
+☕ Café Vibes
+Une API REST construite en Node.js / Express avec base PostgreSQL.
+Pensée pour valoriser un catalogue de cafés, elle inclut :
+Structure MVC, middleware centralisé, seed intelligent
+Modélisation SQL respectant la 3e forme normale (3NF)
+Requêtes SQL manuelles avec jointures (origin_country, characteristic)
+Vues EJS stylisées et sécurisées, pagination, logique métier claire
+🤝 SkillSwap (projet d’apothéose CDA)
+Plateforme web d’échange de compétences entre utilisateurs, développée en microservices :
+Backend : TypeScript, Express, Sequelize, JWT (access/refresh), validation Zod
+Frontend : React, Zustand, Tailwind CSS, formulaires OWASP, UI modulaire
+Base de données : PostgreSQL hébergée sur Supabase
+Rôles utilisateurs, ACL, messagerie interne, système de notation post-service
+Dashboard admin, sécurité avancée, déploiement Docker-ready
+🏃‍♂️ Appli sport (projet mobile à venir)
+Application mobile en React Native avec Expo, actuellement en conception.
+Objectif : mettre en relation des partenaires sportifs via géolocalisation.
+Stack prévue :
+Authentification sécurisée, Supabase, QR code, notifications
+Interface Next.js pour le backoffice web
+Multilingue (i18n), accessibilité, design éthique mobile-first
+🧠 Stack actuelle & expertises
+Langages & outils : TypeScript, JavaScript, SQL, SCSS, Tailwind CSS
+Frontend : React, React Native, Zustand, Redux Toolkit, Vite, Next.js
+Backend : Node.js, Express, PostgreSQL, Supabase, Sequelize, JWT, Zod
+CI/CD & autres : Railway, Docker, GitHub Pages, ESLint, Framer Motion
+🎯 Objectif
+Actuellement en fin de formation, je suis à la recherche d’une alternance en développement web ou mobile (frontend, backend ou fullstack).
+Je souhaite continuer à progresser dans un environnement bienveillant, au sein d’une équipe motivée par la qualité, l’innovation, et le partage.
+📬 N’hésitez pas à me contacter pour échanger autour d’un projet ou d’une opportunité !
 
 
 ## 🌐 Socials:
